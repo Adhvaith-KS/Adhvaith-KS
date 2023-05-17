@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adhvaith-KS, a fresher at BITS Pilani, Pilani campus.
 - 👀 I’m interested in competitive coding and AI
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning app development. 
 - 💞️ I’m looking to collaborate on anything that will help me learn new things that fascinate me
 
 <!---
