@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adhvaith-KS, a sophomore at BITS Pilani, Pilani campus.
+- 👋 Hi, I’m @Adhvaith-KS, a third-year student at BITS Pilani, Pilani campus.
 - 👀 I’m interested in competitive coding and AI/ML.
 - 🌱 I’m currently learning app development. 
 - 💞️ I’m looking to collaborate on anything that will help me learn new things that are fascinating.
