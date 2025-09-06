@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adhvaith-KS, a pre=final year student at BITS Pilani, Pilani campus.
+- 👋 Hi, I’m @Adhvaith-KS, a pre-final year student at BITS Pilani, Pilani campus.
 - 👀 I’m interested in Product and AI/ML.
 - 🌱 I’m currently learning ML. 
 - 💞️ I’m looking to collaborate on anything that will help me learn new things that are fascinating.
